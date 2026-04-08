@@ -22,7 +22,7 @@
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_KEY": "base64:oAKkPg/aF44K7Tir8NWfgXnGuCJuifTKkKZ6+Sfs2MU=",
         "VIEW_COMPILED_PATH": "/tmp",
         "CACHE_STORE": "array",
